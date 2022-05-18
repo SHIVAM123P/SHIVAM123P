@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shivam, B.Tech 3rd year student.
 - 👀 I’m interested in web and app development.
-- 🌱 I’m currently learning front-end development.
+- 🌱 I’m currently learning MERN Stack.
 - 📫 If you are a CS student and having the same interest as mine, you can contact me on shivam.web.dev7@gmail.com
 
 <!---
