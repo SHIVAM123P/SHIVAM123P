@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Shivam, B.Tech 3rd year student.
-- 👀 I’m interested in web and app development.
-- 🌱 I’m currently learning MERN Stack.
+- 👋 Hi, I’m Shivam, recently completed B.Tech in computer science and engineering.
+- 👀 I’m interested in web development.
+- 🌱 I’m currently working on MERN Stack.
 - 📫 If you are a CS student and having the same interest as mine, you can contact me on shivam.web.dev7@gmail.com
 
 <!---
